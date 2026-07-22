@@ -1,6 +1,6 @@
 # Machine Learning in Neuroscience Companion Colab
 
-Companion Google Colab notebook for the Learning and Memory lecture on machine learning in neuroscience.
+Companion Google Colab notebook for the Learning and Memory lecture on machine learning in neuroscience at the Skaggs Graduate School of Chemical and Biological Sciences.
 
 ## Open in Colab
 
